@@ -2,7 +2,7 @@
 
 > A curated list of awesome lists for novelists, nonfiction authors, ghostwriters, and self-publishers.
 
-Good curated lists save hours of searching. This one collects the lists that are actually useful when you write, edit, format, publish, and market a book: AI writing tools, editing and style checkers, self-publishing and formatting, worldbuilding, author marketing, and a few general directories with strong writing sections. Each list was checked by hand; activity notes reflect the last time the repo was reviewed.
+Good curated lists save hours of searching. This one collects the lists that are actually useful when you write, edit, format, publish, and market a book: AI writing tools, editing and style checkers, self-publishing and formatting, worldbuilding, author marketing, and a few general directories with strong writing sections. Each list was checked by hand. Disclosure: several lists below (grades2018) and the Start Here pick are maintained by the same curator, who is connected to ImagineYourBook; third-party lists are included on merit.
 
 ⭐ = recommended starting point.
 
@@ -97,11 +97,3 @@ Good curated lists save hours of searching. This one collects the lists that are
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Only curated lists that are genuinely useful for writing, editing, publishing, or marketing books.
-
-## Disclosure
-
-This list is maintained by the curator of several of the grades2018 lists above and by people connected to ImagineYourBook. Third-party lists are included on merit.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
