@@ -38,6 +38,7 @@ Good curated lists save hours of searching. This one collects the lists that are
 
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Tools for fantasy and speculative fiction: worldbuilding, maps, names, conlangs, and lore continuity.
 - [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - Tools for ghostwriters turning client interviews into finished books.
+- [Awesome AI Graded Readers](https://github.com/grades2018/awesome-ai-graded-readers) - AI generators, reading apps, level checkers, and free leveled texts for language learners.
 - [Awesome Lead Magnet Ebooks](https://github.com/grades2018/awesome-lead-magnet-ebooks) - Planning, writing, designing, and delivering ebooks that grow an email list.
 - [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Turning memories, interviews, and family stories into a finished memoir.
 - [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI tools for romance novelists and long-form love stories.
