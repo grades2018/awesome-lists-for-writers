@@ -94,6 +94,7 @@ Good curated lists save hours of searching. This one collects the lists that are
 ## Open-Source Tools from This Curator
 
 - [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - Offline style linter for fiction manuscripts that flags stock phrases, cliche beats, and repetition, with a [browser version](https://grades2018.github.io/fiction-slop-lint/). Not an AI detector.
+- [book-page-count-estimator](https://github.com/grades2018/book-page-count-estimator) - Browser calculator for estimated paperback page count, KDP spine width, and full cover wrap size from a word count, with a [live version](https://grades2018.github.io/book-page-count-estimator/).
 
 ## Contributing
 
