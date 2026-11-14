@@ -61,6 +61,7 @@ Good curated lists save hours of searching. This one collects the lists that are
 ## Self-Publishing, Formatting and Kindle
 
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
+- [Awesome Markdown to Book](https://github.com/grades2018/awesome-markdown-to-book) - Tools for turning a Markdown manuscript into a finished EPUB, print PDF, or web book.
 - [Awesome Self-Publishing Tools](https://github.com/devanasolver/awesome-self-publishing-tools) - Tools for self-published authors and small publishers, with honest pricing notes.
 - [Awesome Kindle](https://github.com/inchei/awesome-kindle) - Repositories that help with Amazon Kindle devices and ebooks.
 - [Awesome Markdown (mansucache)](https://github.com/mansucache/awesome-markdown) - The Markdown ecosystem for writing, conversion, and publishing (English and Chinese).
