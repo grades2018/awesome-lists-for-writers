@@ -100,3 +100,5 @@ Good curated lists save hours of searching. This one collects the lists that are
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Only curated lists that are genuinely useful for writing, editing, publishing, or marketing books.
+
+If this list is useful to you, a star helps other writers find it.

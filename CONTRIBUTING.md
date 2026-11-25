@@ -8,3 +8,5 @@ Thanks for helping improve this list.
 - Format: `- [List Name](https://github.com/owner/repo) - Short description.`
 - Please explain in the pull request what the list covers and why it helps writers.
 - No affiliate or tracking links.
+
+If this list is useful to you, a star helps other writers find it.
